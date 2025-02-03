@@ -1,5 +1,5 @@
-/// <reference types="next" />
-/// <reference types="next/image-types/global" />
-
-// NOTE: This file should not be edited
-// see https://nextjs.org/docs/basic-features/typescript for more information.
+Ly8vIDxyZWZlcmVuY2UgdHlwZXM9Im5leHQiIC8+Ci8vLyA8cmVmZXJlbmNl
+IHR5cGVzPSJuZXh0L2ltYWdlLXR5cGVzL2dsb2JhbCIgLz4KCi8vIE5PVEU6
+IFRoaXMgZmlsZSBzaG91bGQgbm90IGJlIGVkaXRlZAovLyBzZWUgaHR0cHM6
+Ly9uZXh0anMub3JnL2RvY3MvYmFzaWMtZmVhdHVyZXMvdHlwZXNjcmlwdCBm
+b3IgbW9yZSBpbmZvcm1hdGlvbi4K
